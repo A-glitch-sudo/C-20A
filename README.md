@@ -1,2 +1,2 @@
-# C-20A
-detecting Collision
+# p5.play-boilerplate
+Boiler plate for p5.play
